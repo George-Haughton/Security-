@@ -17,9 +17,14 @@ A huge risk to businesses is software or systems crashes and most businesses wil
 Going back to my first paragraph about human errors will lead me onto my next topic which is social engineering. Essentially, social engineering is the act of exploiting, tricking or using human psychology to gain access to buildings, data and systems. Social engineering is a very difficult risk to protect yourself and company from. Your businesses software and systems can be the most secure in the world, but all this secuirty means nothing if your employees can easily be used to gain access to a door, room or system. The same goes for the firewall that you have, it means nothing when an employee clicks on a malicious facebook link thinking its a funny video from their friend. A perfect example of social engineering is when someone is tricked into letting someone into the building without any credentials. A social hacker will try to build trust with the victim and give them a false sense of friendship, to maximize the hackers chance of being let in.
 
 ### Security procedures
-Every business will have its own procedures to protect the business, staff and customers; these procedures and policy work together to ensure the safety and well-being of everyone associated with that business.
+Every business will have its own procedures to protect the business, staff and customers; these procedures and policy work together to ensure the safety and well-being of everyone associated with that business. A few examples are:
 
-These procedures can come in many forms and with our business Reboot game
+* Entering the building
+* Logging in 
+* Uploading work
+* Entering the class
+
+When entering the building an ID needs to be scanned before you are able to gain acess to any of the classrooms, additionally if you do not have your ID with you will need to get stamped after giving your date of birth and name to the reception to check if you do attend the college. Another procedure for the college is when logging into the computers you will be prompted to use your login and password to gain access to the computers. Entering the room is also a security procedure, you first need to right our right class, scan your college ID card then the door should give you access if your card has the rights to, then just walk into the room. Lastly, we have uploading work, this is another procedure for uploading work securely. You will need to make sure you're loggined into a computer then go onto the college's website, proceed to login to its learning, find your class, and upload your work there, but in our case we have to upload out work to github or by email. So login into Github on google and click on repositories and upload work there, or send an email containing the work. 
 
 
 
