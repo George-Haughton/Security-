@@ -27,6 +27,16 @@ Every business will have its own procedures to protect the business, staff and c
 When entering the building an ID needs to be scanned before you are able to gain acess to any of the classrooms, additionally if you do not have your ID with you will need to get stamped after giving your date of birth and name to the reception to check if you do attend the college. Another procedure for the college is when logging into the computers you will be prompted to use your login and password to gain access to the computers. Entering the room is also a security procedure, you first need to right our right class, scan your college ID card then the door should give you access if your card has the rights to, then just walk into the room. Lastly, we have uploading work, this is another procedure for uploading work securely. You will need to make sure you're loggined into a computer then go onto the college's website, proceed to login to its learning, find your class, and upload your work there, but in our case we have to upload out work to github or by email. So login into Github on google and click on repositories and upload work there, or send an email containing the work. 
 
 ### Third party VPN configuration
+#### Firewall
+When it comes to firewall configuration you need to make sure you are following the set rules and not cutting any corners, as it is a waste of resources, money and time to create a firewall that is not fully complete or has been short cut. A firewall is a network device that decides whether certain trafic is allowed to pass through, in or out. It blocks specific traffic based on a set of defined rules the user or owner will implement; which will vary depending on who it is for. Additionally, it establishes a wall between controlled and secured internet networks, these can be untrusted or trusted outside networks, the main one being the internet.
+
+In general firewalls are set up to let traffic from any source to reach any destination, this is called an open policy. Normally, this is because IT teams dont know what needs to be at the outset, which means they add broard rules and will start to work backwards from there. Which often means they never get around to defining firewall policies. This can be because of time pressure or just brushing it off as not a high priority. Not following configuration of defining firewall policies will leave the firewall in a perpetually exposed state which means creating an open window for hackers to enter, as instead of creating a wall for a hacker you still leave it open for them to enter. Which is a huge waste of money, resources and time.
+
+#### VPN
+A VPN is a internet security method that aims to add another layer of security to both public and private networks, like internet hotspots and broadband. A virtual private network is a secure solution in the internet that allows users/individuals, businesses and organisations to recieve and send data while keeping the secrecy of a private network.
+
+
+
 
 ### Improving Network Security
 
