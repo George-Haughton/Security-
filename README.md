@@ -1,4 +1,4 @@
-# Security-
+# Security-Document-Reboot games
 I am apart of a small games developing company called Reboot games. We consist of around 13 developers, designers and artists and all work together creating games within our Westherts College campus. At the top we have our lectures Mike Watkins, Manish Gadhvi and Thiago Viana and they all work together to make sure our projects and games head in the right direction to maximize their success rates.
 
 As mentioned earlier we all work from our Watford based Westherts college campus, but we all also do work from home when we are not attending the college. The systems and software we use at college need to be high end to support the developing of professional level games. This being said every system we use within our room is up to a standard that we all agree is perfect for our work and every system is the exact same to make sure we are all equal and no one is left out of something, just because their system is not at the level of the others. These are the specs of the systems we use:
@@ -25,6 +25,28 @@ Every business will have its own procedures to protect the business, staff and c
 * Entering the class
 
 When entering the building an ID needs to be scanned before you are able to gain acess to any of the classrooms, additionally if you do not have your ID with you will need to get stamped after giving your date of birth and name to the reception to check if you do attend the college. Another procedure for the college is when logging into the computers you will be prompted to use your login and password to gain access to the computers. Entering the room is also a security procedure, you first need to right our right class, scan your college ID card then the door should give you access if your card has the rights to, then just walk into the room. Lastly, we have uploading work, this is another procedure for uploading work securely. You will need to make sure you're loggined into a computer then go onto the college's website, proceed to login to its learning, find your class, and upload your work there, but in our case we have to upload out work to github or by email. So login into Github on google and click on repositories and upload work there, or send an email containing the work. 
+
+### Third party VPN configuration
+
+### Improving Network Security
+
+#### DMZ 
+A DMZ which stands for demiilitarized zone which some people refer to as a perimeter network is a logical subnetwork  or a physical subnetwork that exposes, contains and seperartes an internal local area network (LAN) from another untrusted networks which typically is the internet.
+
+A DMZ is an extremely useful and beneficial tool that you can use to help better secure your network. As a DMZ seperates the internet from the local network anything that is saved or that can be downloaded from the local network can not be accessed through the internet. Additionally, anything that can be accessed from someone outside of the locla network for example something such as an email will be closed off from the public into the DMZ preventing the hacker from gaining access to anything in the DMZ.
+
+#### Static IP
+An IP address is a unique number that is given to a device, such as a printer, phone or computer and it is used to as an identity for the network to connect, send and recieve data to. Any device that connects to a network will be assigned an IP address, also a static IP is an address that will be manually assigned to that device and will not change, whereas a dynamic IP address is an IP that changes and is different to the last everytime that device connects to the network. Creating this DMZ improves network security by securely locking off important data.
+
+When logging onto your pc if on said pc you have an Dynamic IP (DHCP) configured then anyone that is connected to your network is able to create a fake DHCP server within your network and when your pc boots up it will request an IP from the fake server, the fake server will reply with its own IP which is used as a gateway and DNS server IP address. After your connected to the fake server the hacker is able to spoof and access every data package/packet that your computer sends or recieves. Additionally, they can change and delete packets, while also able to make/create phishing attacks as well as other attacks. In essence a static address is more secure as a hacker can not access your IP unless they are physically at your pc.
+
+#### NAT
+A NAT (Network Address Translation) is the process of a network device assigning a public address to a computer or a group within a private network; usually the network device is a firewall. One of its main uses are to limit the number of public IP addresses an organization, business or company use; if thats for secuirty purposes or economy purposes. NAT improves the security of your network by not allowing anyone from the outside of your network to start/initiate connections to anyone on the inside of your network, this reduces the chance of worms, and other various types of malware.
+
+
+
+
+
 
 
 
