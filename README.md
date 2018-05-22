@@ -33,9 +33,9 @@ When it comes to firewall configuration you need to make sure you are following 
 In general firewalls are set up to let traffic from any source to reach any destination, this is called an open policy. Normally, this is because IT teams dont know what needs to be at the outset, which means they add broard rules and will start to work backwards from there. Which often means they never get around to defining firewall policies. This can be because of time pressure or just brushing it off as not a high priority. Not following configuration of defining firewall policies will leave the firewall in a perpetually exposed state which means creating an open window for hackers to enter, as instead of creating a wall for a hacker you still leave it open for them to enter. Which is a huge waste of money, resources and time.
 
 #### VPN
-A VPN is a internet security method that aims to add another layer of security to both public and private networks, like internet hotspots and broadband. A virtual private network is a secure solution in the internet that allows users/individuals, businesses and organisations to recieve and send data while keeping the secrecy of a private network.
+A VPN is a internet security method that aims to add another layer of security to both public and private networks, like internet hotspots and broadband. A virtual private network is a secure solution in the internet that allows users/individuals, businesses and organisations to recieve and send data while keeping the secrecy of a private network. Additionally, a third party VPN is a VPN that is out sourced from within the company from an outer organisation.
 
-
+An example of an impact of not configuring third party VPNs correctly. The first is a VPN is meant to add another level of security to public and private networks, so if the VPN is incorrectly configured it may not work, do what it is meant to do or create more problems for you within your network. Additionally, if it does not work then it still leaves your network vulnerable without that extra level of security it may need.
 
 
 ### Improving Network Security
@@ -52,6 +52,11 @@ When logging onto your pc if on said pc you have an Dynamic IP (DHCP) configured
 
 #### NAT
 A NAT (Network Address Translation) is the process of a network device assigning a public address to a computer or a group within a private network; usually the network device is a firewall. One of its main uses are to limit the number of public IP addresses an organization, business or company use; if thats for secuirty purposes or economy purposes. NAT improves the security of your network by not allowing anyone from the outside of your network to start/initiate connections to anyone on the inside of your network, this reduces the chance of worms, and other various types of malware.
+
+### Risk assessment procedures 
+Every organisation has risks it needs to take into account when going about business; and Reboot games is not any different. Here is my risk assessment table:
+
+
 
 
 
