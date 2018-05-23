@@ -63,7 +63,25 @@ Every organisation has risks it needs to take into account when going about busi
 |Power cut  | The power going out and not being able to use the systems | Probabilty: 2 | Severity: 7 | Have a back up generator in place |
 | Personnel injury | Someone being electricuted, falling over or any sort of injury | Probability: 4 | Severity: 6 | Make sure all staff are trained in first aid and people know of the risks within the class |     
 
+The risk procedures we have within our organisation are:
 
+* If you click on what might be a malicious link, disconnect from the interent and back up your files.
+* If someone has broken in report it to the police, and do not touch the scene.
+* If there is a power cut wait for power to return and check if data has been corrupted or lost.
+* If there is a personeel injury report it to the staff, give basic medical attention and call for an ambulance if needed.
+
+### Data protection processes
+As we are an organisation we need to follow the same acts as any other business. Within data protection we need to follow the Data Protection Regulation Act and the Data Protection Act. These acts dictate that we as Reboot games must keep any personal information or information that might be deemed as sensitive to only be accessible to the person who own said information.
+
+Information that is deemed as sensitive or personal information by this act are:
+* Racial background of someone
+* Ethnic Origin of someone
+* Their sexual life and anything relating to their sexual life
+* Thier religious beliefs and their views on said beliefs
+* Any information that relates to a crime they have commited
+* Any information that states a person has or has not commited a crime, as well as any allegations of crimes
+
+This is the type of information no body wants to leak out, this is why when wanting to access any of this information; someone will be asked to provide a form of identity such as an ID or a passport. If someone would like to access this information over the phone or online they will need to answer correctly two questions. Firstly, their security question they should have set up with a member of staff when creating the account or at a point they have done business with Reboot games in the past. Additionally, they will have to answer correctly the date of birth that is listed on the account. Information will not be given to the person asking for it unless they can tell a member of staff the correct answer to the questions they are being asked.
 
 
 
