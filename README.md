@@ -56,6 +56,13 @@ A NAT (Network Address Translation) is the process of a network device assigning
 ### Risk assessment procedures 
 Every organisation has risks it needs to take into account when going about business; and Reboot games is not any different. Here is my risk assessment table:
 
+| Risk | Explanation | Probability out of 10 | Severity out of 10 | Solution |
+| ---- | ----------- | --------------------- | ------------------ | -------- |
+| Human error | personnel errors such as clicking a malicious link | Probability: 5 | Severity: 8 | Make sure all staff are well trained in online security |
+| Break in | Criminals breaking into premises | Probabilty: 3 | Severity: 9 | Make sure all doors and windows are locked and closed |
+|Power cut  | The power going out and not being able to use the systems | Probabilty: 2 | Severity: 7 | Have a back up generator in place |
+| Personnel injury | Someone being electricuted, falling over or any sort of injury | Probability: 4 | Severity: 6 | Make sure all staff are trained in first aid and people know of the risks within the class |     
+
 
 
 
