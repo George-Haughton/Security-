@@ -28,7 +28,7 @@ Going back to my first paragraph about human errors will lead me onto my next to
 ### Security procedures
 We have procedures, policies and rules that ensure the safety and well-being of everyone associated with that business. A few examples are:
 
-* Entering the building using ID- if you do not have an ID ask reception and they will provide you with a stamp for that day only
+* Entering the building using ID- if you do not have an ID ask reception and they will provide you with a stamp 
 * Logging in using login and password - if you do not have these ask the staff at student admin
 * Uploading work - if you can not upload work, as the teacher or again student support
 * Entering the class using ID - if you can not enter room ask student admin
