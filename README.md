@@ -79,6 +79,8 @@ The risk procedures we have within our organisation are:
 * If there is a power cut wait for power to return and check if data has been corrupted or lost.
 * If there is a personeel injury report it to the staff, give basic medical attention and call for an ambulance if needed.
 
+When you think you have clicked on a malicious link or accidentally downloaded some malicious software the first thing you should do is disconnect from the internet as this can disrupt the hack but if this does not work try to back up files to make sure if the hacker does delete files you are prepared and have back ups. If someone has broken into the college do not touch anything as you do not want to contaminate the crime scene, this will increase the chance of finding the criminal if the scene is untouched. If a power cut strikes stay calm and wait for the power to return, if it does not then ask a member of staff what they reccomend you do, additionally, if the power does come back check to see if any files or data have been corrupt or lost. Finally, if someone becomes injured at the college premises try to perform basic medical attention if that is all they need but if it is a more serious injury call for an ambulance as well.
+
 ### Data protection processes
 As we are an organisation we need to follow the same acts as any other business. Within data protection we need to follow the Data Protection Regulation Act and the Data Protection Act. These acts dictate that we as Reboot games must keep any personal information or information that might be deemed as sensitive to only be accessible to the person who own said information.
 
